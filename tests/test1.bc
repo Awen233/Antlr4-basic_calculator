@@ -1,0 +1,16 @@
+define func(){
+    i = 4
+    i
+}
+func()
+i
+
+define func2(x , y){
+    w = x + y
+    w
+}
+func2(3, 4)
+w
+
+
+func4()
